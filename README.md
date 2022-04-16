@@ -9,9 +9,7 @@ As a first step towards learning to code, make sure to:
 3. Install [Git](https://git-scm.com/downloads) on your machine
 4. Generate and install SSH Key on your machine: [Windows](https://phoenixnap.com/kb/generate-ssh-key-windows-10) and [Mac](https://medium.com/macoclock/set-up-ssh-on-macos-89e8354d8b63)
    - Make sure not set any PASSPHRASE, just hit "Enter" key when prompted
-5. Create a Github Account: https://github.com/
-6. Add the SSH Key you recently generate in Step 4(above) to Github: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
-7. Setup Node.js using NVM:
-   - Windows: https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows
-   - Mac: https://tecadmin.net/install-nvm-macos-with-homebrew/
+5. Create a [Github](https://github.com/) Account
+6. Add the SSH Key you recently generate in Step 4(above) to Github.com: [Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+7. Setup Node.js using NVM: [Windows](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows) and [Mac](https://tecadmin.net/install-nvm-macos-with-homebrew/)
    - Go to your terminal or command prompt, verify node is successfully installed with this command `node -v`(you should see v16.13.2)
