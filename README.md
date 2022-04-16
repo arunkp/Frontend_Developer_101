@@ -1,6 +1,13 @@
-# Frontend_Developer_101
+# Front-end Developer 101
 
-As a first step towards learning to code, make sure to:
+Welcome to the journey towards becoming a professional Front-end Developer. This course combined with the classroom training gives you an enhanced learning experience. My aim is to cover the depths of front-end deevelopment world so when you code in a team, you code with confidence.
+
+## Who is this cours for?
+ - Junior Developers who are fresh out of college and not sure which bus to take.
+ - Mid Level Front-end Developers who are willing to advance their career to Senior Level.
+ - And at the end for **ANYONE** who is willing to learn.
+
+## As a first step towards learning to code, make sure to:
 
 1. Install [Chrome](https://www.google.com/chrome/) and [Firefox](https://www.mozilla.org/en-US/firefox/new/).
 2. Install [Visual Studio Code (VsCode)](https://code.visualstudio.com/):  and Once you are sure VsCode is installed, Install these extensions on VsCode:
