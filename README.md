@@ -2,7 +2,7 @@
 
 As a first step towards learning to code, make sure to:
 
-1. Install Chrome & Firefox Browsers.
+1. Install [Chrome](https://www.google.com/chrome/) and [Firefox](https://www.mozilla.org/en-US/firefox/new/.
 2. Install Visual Studio Code (VsCode): https://code.visualstudio.com/ and Once you are sure VsCode is installed, Install these extensions on VsCode:
    - Prettier: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
    - LiveServer: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
