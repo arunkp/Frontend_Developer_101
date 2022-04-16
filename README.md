@@ -16,4 +16,3 @@ As a first step towards learning to code, make sure to:
    - Windows: https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows
    - Mac: https://tecadmin.net/install-nvm-macos-with-homebrew/
    - Go to your terminal or command prompt, verify node is successfully installed with this command `node -v`(you should see v16.13.2)
-8. 
