@@ -2,10 +2,28 @@
 
 Welcome to the journey towards becoming a professional Front-end Developer. This course combined with the classroom training gives you an enhanced learning experience. My aim is to cover the depths of front-end deevelopment world so when you code in a team, you code with confidence.
 
-## Who is this cours for?
+## Who is this course for?
  - Junior Developers who are fresh out of college and not sure which bus to take.
  - Mid Level Front-end Developers who are willing to advance their career to Senior Level.
  - And at the end for **ANYONE** who is willing to learn.
+
+## What is covered in this course?
+1. How Browsers work?
+2. What is a Web Server? 
+3. Introduction to Git - the Basics (clone, add, commit, push)
+4. Basics of Web Development - An Overview
+5. Basics of HTML: HyperText Markup Language
+6. Styling with CSS(Cascading Style Sheets)
+7. Javascript
+8. Project 1 - Build a game
+9. Unit testing
+10. Pair Programming project - Build an Application
+   - Git Workflow
+   - Git branch
+   - git merge
+   - Pull Request
+   - Code Review
+   - Feature branches
 
 ## As a first step towards learning to code, make sure to:
 
